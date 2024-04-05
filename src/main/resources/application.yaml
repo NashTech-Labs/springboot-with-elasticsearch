@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: NashTech-Knolx
+elastic:
+  hostname: ${HOSTNAME:localhost}
+  port: ${PORT:9200}
